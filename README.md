@@ -1,4 +1,4 @@
-# bryanpardo.ph
+# Vue Resume template
 
 ## Project setup
 ```
