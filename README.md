@@ -1,5 +1,7 @@
 # Vue Resume template
 
+Just change the provide correct data on the assets/data.json file provided.
+
 ## Project setup
 ```
 npm install
