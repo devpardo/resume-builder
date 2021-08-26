@@ -1,0 +1,150 @@
+{
+  "profile": {
+    "full_name": "John Doe",
+    "position": "Web Developer",
+    "location": "Manila, Philippines",
+    "contact": "+63 917 111 1111",
+    "email": "foobar@gmail.com",
+    "socials": {
+      "linkedin": "linkedin.com/in/foobar/",
+      "skype": "foobar.foobar",
+      "web": "foobar.com",
+      "github": "github.com/foobar"
+    },
+    "summary" : "A resourceful and self-motivated web developer with 6 years experience in delivering software projects to extremely high standards. Proven skills through working well within a close team while using initiative for problem solving and ensuring errors are corrected. Possesses exemplary planning skills and accustomed to operating under considerable pressure, remaining calm and effective and prioritizing wisely.",
+    "image": "https://www.searchpng.com/wp-content/uploads/2019/02/User-Icon-PNG-715x715.png"
+  },
+  "work_history": [
+    {
+      "position": "Angular Developer",
+      "company": "FOO",
+      "location": "Makati, Philippines",
+      "date": "January to June 2021",
+      "duties" : [
+        { "description" :  "Delivering a complete front end application, Write reusable code (with documentation) to a standard which makes it quick and easy to maintain the code in the future"},
+        { "description" :  "Optimize applications for maximum speed and scalability"},
+        { "description" :  "Collaborate with back-end developers and web designers to improve usability"},
+        { "description" :  "Cooperating with the back-end developer in the process of building the RESTful API"},
+        { "description" :  "Help other developers in reviewing pull requests to educate each other to write better code and understand business problems."},
+        { "description" :  "Technology/ies Used: Angular10, AngularJS, JIRA, XAMPP, Cakephp"}
+      ],
+      "tech" : []
+    },
+    {
+      "position": "PHP Developer",
+      "company": "FOO",
+      "location": "Makati, Philippines",
+      "date": "February to June 2020",
+      "duties" : [
+        { "description" :  "RESTful API development / Frontend development"},
+        { "description" :  "Spent most of your time developing REST APIs and improving existing API performance. Writing unit tests with full code coverage for the code that has been written, peer reviewing code and unit tests of peers and contributing to design and technical discussions."},
+        { "description" :  "Worked with AngularJS, Material, Typescript on frontend development."},
+        { "description" :  "Technology/ies Used: Angular10, AngularJS, JIRA, XAMPP, Cakephp"}
+      ],
+      "tech" : []
+    },
+    {
+      "position": "Frontend PHP Developer",
+      "company": "FOO",
+      "location": "Bonifacio Global City, Taguig, Philippines",
+      "date": "July 2018 to January 2019",
+      "duties" : [
+        { "description" :  "Frontend development"},
+        { "description" :  "Continuous enhancement of the frontend experience on our ecommerce global website platform."},
+        { "description" :  "Contribute to ongoing process and procedures documentation."},
+        { "description" :  "Ensure the technical feasibility and best practices of UX/UI designs, with a focus on consistency and usability."},
+        { "description" :  "Cross-browser standards and testing for both desktop and mobile experiences."},
+        { "description" :  "Relentlessly optimizing our site for page speed and user experience."},
+        { "description" :  "Technology/ies Used: VueJS, Vuex, JIRA"}
+      ],
+      "tech" : []
+    },
+    {
+      "position": "Front End Developer (VueJs)",
+      "company": "FOO",
+      "location": "Philippines",
+      "date": "July 2018 to January 2019",
+      "duties" : [
+        { "description" :  "Frontend development"},
+        { "description" :  "Plan and design UI/UX"},
+        { "description" :  "Ensure the technical feasibility of UI/UX designs."},
+        { "description" :  "Transforming layout designs into static websites. "},
+        { "description" :  "Browser testing and debugging"},
+        { "description" :  "Build reusable code and libraries for future use"},
+        { "description" :  "Optimize application for maximum speed and scalability"},
+        { "description" :  "Creating client-side validation and security."},
+        { "description" :  "Maintain and enhance existing websites."},
+        { "description" :  "Technology/ies Used: VueJS, Vuex, JIRA, Codeigniter"}
+      ],
+      "tech" : []
+    },
+    {
+      "position": "HTML5 Developer",
+      "company": "FOO",
+      "location": "Eunos, Singapore",
+      "date": "April 2015 to June 2016",
+      "duties" : [
+        { "description" :  "Responsible for working on a range of projects such as kiosk based applications, websites, mobile application controls for various clients here in Singapore."},
+        { "description" :  "Frontend development"},
+        { "description" :  "Technology/ies Used: VanillaJS, jquery"}
+        
+      ],
+      "tech" : []
+    },
+    {
+      "position": "Junior Web Developer (PHP)",
+      "company": "FOO",
+      "location": "San Juan, Metro Manila, Philippines ",
+      "date": "January 2014 to Oct 2014",
+      "duties" : [
+        { "description" :  "Assisted senior web developers by supporting design and coding"},
+        { "description" :  "Developed and maintained the front end functionality of our website"},
+        { "description" :  "Technology/ies Used: VanillaJS, jquery, PHP"}
+      ],
+      "tech" : []
+    }
+  ],
+  "education": [
+    {
+      "school": "UP ITDC",
+      "date": "September 2013"
+    },
+    {
+      "school": "FOO",
+      "date": "April 2011"
+    }
+  ],
+  "qualifications": [
+    { "description": "Extensive web development experience using JavaScript, JQuery, HTML, CSS, JSON and AJAX" },
+    { "description": "Experience of using JavaScript libraries such as VueJS, ReactJS" },
+    { "description": "Experience in developing interactive data visualisations" },
+    { "description": "Experience in AdobeXD, Figma, Sketch" },
+    { "description": "Proficient with REST APIs" },
+    { "description": "Experience with UI Frameworks such as Tailwind, Bootstrap" },
+    { "description": "Experience in building single page web apps" },
+    { "description": "Good communication skills" },
+    { "description": "Knowledge of Photoshop and Illustrator" },
+    { "description": "Experience with CMS (Wordpress)" },
+    { "description": "Knowledge of MYSQL" },
+    { "description": "Knowledge of Object Oriented development methodologies" },
+    { "description": "Knowledge of NodeJs/ExpressJS" },
+    { "description": "Knowledge of using PHP/CodeIgniter Framework" }
+  ],
+  "insterests": [
+    {
+      "name": {}
+    }
+  ],
+  "portfolio": [
+    {
+      "title": "San Juan Batangas Goverment website",
+      "github": "https://sanjuanbatangas.gov.ph",
+      "link": "https://sanjuanbatangas.gov.ph",
+      "description": "Lorem",
+      "tech": [
+        "vue",
+        "vue"
+      ]
+    }
+  ]
+}
